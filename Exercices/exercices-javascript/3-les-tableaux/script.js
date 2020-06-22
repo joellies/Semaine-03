@@ -1,8 +1,12 @@
 // Exercice 1: ajoute "Ted" au tableau suivant
 
 let castArray = ['Robin', 'Barney', 'Lily', 'Marshal'];
+console.log(castArray.push('Ted'));
+console.log(castArray);
 
 // Exercice 2: Affiche l'index de "Ted" dans le tableau dans la console
+let tedIndex = castArray.findIndex(element => element === 'Ted');
+console.log(tedIndex);
 
 // Exercice 3: Affiche l'index de Robin dans le tableau dans la console
 

@@ -24,7 +24,7 @@ function cycleSolaire(param){
     iterations++;
     if(iterations === 365){
         console.log("Une révolution de la terre autour du soleil vient d'être accomplie")
-    } 
+    }
 } while (iterations <= 365); */
 
     //Exemple while
@@ -35,7 +35,7 @@ function cycleSolaire(param){
     if(iterations === 365){
         console.log("Une révolution de la terre autour du soleil vient d'être accomplie")
     }}  */
-}; 
+};
 //Lancer la fonction cycleSolaire:
 
 /* cycleSolaire(0); */
@@ -50,7 +50,7 @@ let newTeamArray = [];
                             {
                              newTeamArray.push("salut"+ ' ' + element)
                             }
-                            
+
     );
     console.log(newTeamArray)
 
@@ -69,7 +69,7 @@ myFunction(); */
 
 //Exemple shift();
 
-/* console.log(siriusTeamArray.shift()); 
+/* console.log(siriusTeamArray.shift());
 console.log(siriusTeamArray); */
 
 //Exemple push();
