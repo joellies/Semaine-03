@@ -2,8 +2,6 @@
 
 Ce dossier est réservé aux fichiers d'énoncés.
 
-Coucou
-
 # Titre 1
 
 ## Titre 2
