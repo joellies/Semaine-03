@@ -9,7 +9,7 @@
 
 // Exercice 3: Place ton code précédent en commentaire. Dans un prompt, demande son âge à l'utilisateur, ensuite, à l'aide d'un .confirm() vérifie si l'âge de l'utilisateur est bien supérieur à 18 ans, si oui, demande à l'utilisateur de confirmer son âge et affiche "Bienvenue" dans une alert()
 
-let howOldAreYou = prompt('Quel est ton âge ?', 'ex: 30 ans');
+/* let howOldAreYou = prompt('Quel est ton âge ?', 'ex: 30 ans');
 parseInt(howOldAreYou, 10);
 console.log(howOldAreYou);
 if (howOldAreYou > 18) {

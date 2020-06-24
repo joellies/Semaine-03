@@ -39,5 +39,5 @@ span {
 /* EXERCICE 2 */
 /* Vous aurez besoin du pseudo-sélecteur "last-child". Faites une petite recherche Google. */
 section {
-  display: block;
+  display: flex;
 }
