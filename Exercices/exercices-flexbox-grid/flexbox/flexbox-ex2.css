@@ -38,6 +38,23 @@ span {
 
 /* EXERCICE 2 */
 /* Vous aurez besoin du pseudo-sélecteur "last-child". Faites une petite recherche Google. */
-section {
+/*section {
   display: flex;
+  flex-flow: column wrap;
+  justify-content: space-between;
+  height: 1400px;
 }
+div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 30%;
+  height: 300px;
+}
+
+div:last-child {
+  display: flex;
+  flex-flow: column wrap;
+  height: 1400px;
+}
+*/

@@ -28,7 +28,7 @@ Revoici l'exercice qu'on a vu pendant la théorie. Essayez de le finir pour la f
 
 Éditez la ligne suivante pour indiquez où vous en êtes arrivé
 
-Je suis arrivé au niveau **12/28**
+Je suis arrivé au niveau **27/28**
 
 ### Tes propres Grids
 
