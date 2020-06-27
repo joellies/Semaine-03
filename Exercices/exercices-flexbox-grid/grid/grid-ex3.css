@@ -35,11 +35,28 @@ footer {
 }
 /* CSS SETUP END */
 
-/* EXERCICE 3 */
+/* EXERCICE 3
 .container {
   display: grid;
-
+  grid-template-columns: 1fr 5fr 1fr;
+  grid-template-rows: 1fr 6fr 1fr;
 }
 
+nav,
+section,
+aside {
+  grid-row: 2 / 3;
+}
 
-grid-template-columns, grid-template-rows, grid-column, grid-row et span
+header {
+  display: grid;
+  grid-column: 1 / span 3;
+}
+
+footer {
+  display: grid;
+  grid-column: 1 / span 3;
+}
+
+*/
+/*J'ai rajouter nav, section, aside mais sans ça fonctionnait aussi*/
